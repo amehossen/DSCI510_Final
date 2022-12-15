@@ -23,10 +23,8 @@ c. Lastly, for ease of visualizing the correlation of my outputs, I chose to plo
 # Visualization 
 The respective visualization for my methodology above is as follows: 
 Statistical Analysis: ![image](https://user-images.githubusercontent.com/119716044/207749292-1cc45fdd-5009-4715-afd2-7f8b86536080.png)
-Histogram:
-![image](https://user-images.githubusercontent.com/119716044/207749376-156a73c8-821b-4142-aa74-568da842f323.png)
-Scatterplot: 
-![image](https://user-images.githubusercontent.com/119716044/207749398-c6b65c71-f2af-48b0-a4b8-3c5fae64b9cc.png)
+Histogram:![image](https://user-images.githubusercontent.com/119716044/207749376-156a73c8-821b-4142-aa74-568da842f323.png)
+Scatterplot: ![image](https://user-images.githubusercontent.com/119716044/207749398-c6b65c71-f2af-48b0-a4b8-3c5fae64b9cc.png)
 # Conclusion 
 The conclusion I have garnered from this project is that there absolutely does not exist a correlation between Yelp review ratings and average sentiment of these restaurants on Twitter by the general public. This is supported by the low, but positive, R value, showing that there is not a strong relationship between the two variables, as well as the high p-value which indicates that there is not a statistically significant relationship between Yelp reviews and Twitter sentiments.
 # Future Work 
